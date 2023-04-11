@@ -2,6 +2,18 @@
 // main
 // ========================================
 
-html {
-	font-size: 0;
+body {
+	cursor: grab;
+}
+
+.description {
+	pointer-events: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 24px;
+	color: $white;
+	text-transform: capitalize;
+	opacity: 0.8;
 }

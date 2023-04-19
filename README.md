@@ -1,5 +1,5 @@
-# Fading Backgrounds
-A UI JavaScript library which allows you to add fading images with random positions in the back of an HTML element.
+# Three.js Intro
+Just a simple Three.js demonstration. 
 
 ## How to run
 
